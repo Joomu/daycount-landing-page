@@ -35,27 +35,27 @@ youtube_username                          :
 features                                  :
 
   - title                                 : 倒数日
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : 将来的重要日子、时间点，计算天数倒计时并可设置提醒
     fontawesome_icon_name                 : magic
     
   - title                                 : 纪念日
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : 相恋、结婚、入职、分手，开心不开心，细数每一天
     fontawesome_icon_name                 : mobile
 
   - title                                 : 不同时间格式查看
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : 天数、小时、分钟，各种方式、精度显示时间的变化累积
     fontawesome_icon_name                 : play-circle
 
   - title                                 : 个性化
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : 精美的预置背景还是个性的自选图片，甚至是不同的主题、icon 都由你自有掌握
     fontawesome_icon_name                 : sync
 
-  - title                                 : 不同时间格式
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 时间线
+    description                           : 周年、白天等各个重要的时间节点一目了然
     fontawesome_icon_name                 : adjust
   
   - title                                 : 快捷日期计算
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : 快速计算相对时间，侧滑即用
     fontawesome_icon_name                 : star
 
 
