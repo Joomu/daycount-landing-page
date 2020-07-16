@@ -1,32 +1,32 @@
 #page title
-page_title                                : Daycount                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 滴答倒数日                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1521849053                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://daycount.me                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : #https://daycount.me                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : 滴答倒数日                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : 滴答倒数日 - 记录每一个重要的日子
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : @滴答清单                                
+your_link                                 : https://dida365.com                     
+your_city                                 : #Copenhagen                                
+email_address                             : support@dida365.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
 youtube_username                          :
 
 
@@ -34,45 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : 倒数日
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
+  - title                                 : 纪念日
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
+  - title                                 : 不同时间格式查看
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : 个性化
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
+  - title                                 : 不同时间格式
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
+  - title                                 : 快捷日期计算
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
